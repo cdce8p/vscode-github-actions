@@ -1,11 +1,11 @@
 {
-  "name": "@github/vscode-github-actions",
-  "displayName": "GitHub Actions",
-  "publisher": "github",
+  "name": "vscode-github-actions-cdce8p",
+  "displayName": "GitHub Actions - Custom",
+  "publisher": "cdce8p",
   "icon": "resources/logo.png",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/github/vscode-github-actions"
+    "url": "https://github.com/cdce8p/vscode-github-actions"
   },
   "description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
   "version": "0.28.0",
